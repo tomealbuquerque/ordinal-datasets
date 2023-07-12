@@ -7,7 +7,15 @@ Tomé Albuquerque & Ricardo Cruz
 
 ## Tabular
 
-
+| Name                | Description                                           | Samples | A  | URL                                                         |
+| ------------------- | ----------------------------------------------------- | ------- | -- | ----------------------------------------------------------- |
+| Abalone             | Predict the age of abalone from physical measurements | 4177    | 8  | https://archive.ics.uci.edu/dataset/1/abalone               |
+| Balance scale       | Balance scale weight                                  | 625     | 4  | https://archive.ics.uci.edu/dataset/12/balance+scale        |
+| Car                 | Car qualitative evaluation                            | 1728    | 6  | https://archive.ics.uci.edu/dataset/19/car+evaluation       |
+| Lenses              | fitting contact lenses                                | 24      | 4  | https://archive.ics.uci.edu/dataset/58/lenses               |
+| New thyroid         | Normal/hyper/hypo-thyroidism                          | 7200    | 5  | https://archive.ics.uci.edu/dataset/102/thyroid+disease     |
+| Student Performance | Student Performance grades  (0 - 20)                  | 649     | 33 | https://archive.ics.uci.edu/dataset/320/student+performance |
+| Wine Quality        | wine quality (score between 0 and 10)                 | 4898    | 10 | https://archive.ics.uci.edu/dataset/186/wine+quality        |
 
 ***
 ## Image
@@ -17,8 +25,8 @@ Tomé Albuquerque & Ricardo Cruz
 | BACH      | Breast Cancer Histology images               | 400     | 4   | https://zenodo.org/record/3632035                                                            |
 | DHCI      | Dating historical color images               | 1325    | 5   | http://graphics.cs.cmu.edu/projects/historicalColor/                                         |
 | FGNET     | Age estimation                               | 1002    | 70  | http://yanweifu.github.io/FG_NET_data/FGNET.zip                                              |
-| HERLEV    | Pap Smear/ cytology images                   | 917     | 7   | [http://mde-lab.aegean.gr/index.php/downloads](http://mde-lab.aegean.gr/index.php/downloads) |
 | FocusPath |  Estimate focus level for whole-slide images | 8640    | 12  | https://github.com/mahdihosseini/FoucsPath                                                   |
-| SIPaKMeD  | Pap Smear/ cytology images                   | 4049    | 5   | https://www.cs.uoi.gr/~marina/sipakmed.html                                                  |
+| HERLEV    | Pap Smear/ cytology images                   | 917     | 7   | [http://mde-lab.aegean.gr/index.php/downloads](http://mde-lab.aegean.gr/index.php/downloads) |
 | Hussain   | Liquid based cytology pap smear images       | 963     | 4   | https://data.mendeley.com/datasets/zddtpgzv63/4                                              |
+| SIPaKMeD  | Pap Smear/ cytology images                   | 4049    | 5   | https://www.cs.uoi.gr/~marina/sipakmed.html                                                  |
 | UTKFace   |  face dataset with long age span             | 20000   | 117 | https://susanqq.github.io/UTKFace/                                                           |
