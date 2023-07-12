@@ -5,7 +5,8 @@ This repo contains several examples of **tabular** and **image** **datasets** th
 Tomé Albuquerque & Ricardo Cruz
 ***
 
-Tabular
+## Tabular
+
 
 
 ***
