@@ -6,6 +6,7 @@ Tomé Albuquerque & Ricardo Cruz
 ***
 
 ## Tabular
+(where **A** are the number of attributes)
 
 | Name                | Description                                           | Samples | A  | URL                                                         |
 | ------------------- | ----------------------------------------------------- | ------- | -- | ----------------------------------------------------------- |
@@ -19,6 +20,7 @@ Tomé Albuquerque & Ricardo Cruz
 
 ***
 ## Image
+(where **K** are the number of classes)
 
 | Name      | Description                                  | Samples | K   | URL                                                                                          |
 | --------- | -------------------------------------------- | ------- | --- | -------------------------------------------------------------------------------------------- |
