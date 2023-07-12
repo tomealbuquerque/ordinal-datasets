@@ -1,7 +1,11 @@
 # Ordinal Datasets
 
+***
+
 Tabular
 
+
+***
 ## Image
 
 | Name      | Description                                  | Samples | K   | URL                                                                                          |
