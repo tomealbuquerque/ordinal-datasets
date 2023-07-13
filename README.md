@@ -22,13 +22,17 @@ Tomé Albuquerque & Ricardo Cruz
 ## Image
 (**K** is the number of classes)
 
-| Name      | Description                                  | Samples | K   | URL                                                                                          |
-| --------- | -------------------------------------------- | ------- | --- | -------------------------------------------------------------------------------------------- |
-| BACH      | Breast Cancer Histology images               | 400     | 4   | https://zenodo.org/record/3632035                                                            |
-| DHCI      | Dating historical color images               | 1325    | 5   | http://graphics.cs.cmu.edu/projects/historicalColor/                                         |
-| FGNET     | Age estimation                               | 1002    | 70  | http://yanweifu.github.io/FG_NET_data/FGNET.zip                                              |
-| FocusPath |  Estimate focus level for whole-slide images | 8640    | 12  | https://github.com/mahdihosseini/FoucsPath                                                   |
-| HERLEV    | Pap Smear/ cytology images                   | 917     | 7   | [http://mde-lab.aegean.gr/index.php/downloads](http://mde-lab.aegean.gr/index.php/downloads) |
-| Hussain   | Liquid based cytology pap smear images       | 963     | 4   | https://data.mendeley.com/datasets/zddtpgzv63/4                                              |
-| SIPaKMeD  | Pap Smear/ cytology images                   | 4049    | 5   | https://www.cs.uoi.gr/~marina/sipakmed.html                                                  |
-| UTKFace   |  face dataset with long age span             | 20000   | 117 | https://susanqq.github.io/UTKFace/                                                           |
+| Name        | Description                                  | Samples | K   | URL                                                                                                                                                            |
+| ----------- | -------------------------------------------- | ------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| AFAD        | Asian Face Age Dataset                       | 160000  | 57  | https://github.com/John-niu-07/tarball                                                                                                                         |
+| Adience     | faces for gender and age classification      | 17702   | 8   | [https://talhassner.github.io/home/projects/Adience/Adience-data.html](https://talhassner.github.io/home/projects/Adience/Adience-data.html)                   |
+| BACH        | Breast Cancer Histology images               | 400     | 4   | https://zenodo.org/record/3632035                                                                                                                              |
+| CBIS-DDSM   | Breast Cancer Image  (Mammography)           | 2620    | 6   | [https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset](https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset) |
+| DHCI        | Dating historical color images               | 1325    | 5   | http://graphics.cs.cmu.edu/projects/historicalColor/                                                                                                           |
+| FGNET       | Age estimation                               | 1002    | 70  | http://yanweifu.github.io/FG_NET_data/FGNET.zip                                                                                                                |
+| FocusPath   |  Estimate focus level for whole-slide images | 8640    | 12  | https://github.com/mahdihosseini/FoucsPath                                                                                                                     |
+| HERLEV      | Pap Smear/ cytology images                   | 917     | 7   | [http://mde-lab.aegean.gr/index.php/downloads](http://mde-lab.aegean.gr/index.php/downloads)                                                                   |
+| Hussain     | Liquid based cytology pap smear images       | 963     | 4   | https://data.mendeley.com/datasets/zddtpgzv63/4                                                                                                                |
+| Retinopathy | Diabetic Retinopathy                         | 53569   | 5   | [https://www.kaggle.com/c/diabetic-retinopathy-detection/data](https://www.kaggle.com/c/diabetic-retinopathy-detection/data)                                   |
+| SIPaKMeD    | Pap Smear/ cytology images                   | 4049    | 5   | https://www.cs.uoi.gr/~marina/sipakmed.html                                                                                                                    |
+| UTKFace     |  face dataset with long age span             | 20000   | 117 | https://susanqq.github.io/UTKFace/                                                                                                                             |
