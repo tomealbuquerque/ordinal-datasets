@@ -29,7 +29,7 @@ Tomé Albuquerque & Ricardo Cruz
 | BACH        | Breast Cancer Histology images               | 400     | 4   | https://zenodo.org/record/3632035 |
 | BUSI        | Breast Ultrasound Images Dataset             | 780     | 3   | https://scholar.cu.edu.eg/?q=afahmy/pages/dataset |
 | CARSDB      | Estimation of age of car model               | 13,473  | 80  | https://pages.cs.wisc.edu/~yongjaelee/iccv2013.html |
-| CBIS-DDSM   | Breast Cancer Image  (Mammography)           | 2,620   | 6   | https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset |
+| CBIS-DDSM   | Breast Cancer Image  (Mammography)           | 2,620   | 3?  | https://www.kaggle.com/datasets/awsaf49/cbis-ddsm-breast-cancer-image-dataset |
 | CSAW-M   | Masking of Breast Cancer Image  (Mammography)   | 10,020  | 8   | https://figshare.scilifelab.se/articles/dataset/CSAW-M_An_Ordinal_Classification_Dataset_for_Benchmarking_Mammographic_Masking_of_Cancer/14687271 |
 | DHCI        | Dating historical color images               | 1,325   | 5   | http://graphics.cs.cmu.edu/projects/historicalColor/ |
 | FFB         | Ripeness Level in Oil Palm Fruit             | 4,728   | 5   | https://data.mendeley.com/datasets/424y96m6sw/1 |
