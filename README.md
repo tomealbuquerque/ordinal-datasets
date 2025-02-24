@@ -38,6 +38,10 @@ Tomé Albuquerque & Ricardo Cruz
 | FocusPath   |  Estimate focus level for whole-slide images | 8,640   | 12  | https://github.com/mahdihosseini/FoucsPath |
 | HERLEV      | Pap Smear/ cytology images                   | 917     | 7   | http://mde-lab.aegean.gr/index.php/downloads |
 | Hussain     | Liquid based cytology pap smear images       | 963     | 4   | https://data.mendeley.com/datasets/zddtpgzv63/4 |
+| LIDC/IDRI*  | Lung cancer                                  | 244,527 | 5   | https://www.cancerimagingarchive.net/collection/lidc-idri/ |
+| LNDb*       | Lung cancer                                  | 294     | 5   | https://zenodo.org/records/8348419 |
 | Retinopathy | Diabetic Retinopathy                         | 53,569  | 5   | https://www.kaggle.com/c/diabetic-retinopathy-detection/data |
 | SIPaKMeD    | Pap Smear/ cytology images                   | 4,049   | 5   | https://www.cs.uoi.gr/~marina/sipakmed.html |
 | UTKFace     |  face dataset with long age span             | 20,000  | 117 | https://susanqq.github.io/UTKFace/ |
+
+* not sure if complete ordinal (middle class may be undecided)
